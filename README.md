@@ -1,6 +1,8 @@
 # GIM
 Esercizi di Grafica in movimento (2023)
 
+# Esercizio 1A
+
 [acceso_spento_2](Esercizio_1A/acceso_spento_2.html)   
 [acceso_spento_3](Esercizio_1A/acceso_spento_3.html)   
 [aperto_chiuso_2](Esercizio_1A/aperto_chiuso_2.html)   
@@ -10,8 +12,14 @@ Esercizi di Grafica in movimento (2023)
 [spostamento_2](Esercizio_1A/spostamento_2.html)   
 [spostamento_3](Esercizio_1A/spostamento_3.html)   
 
-[fuoco_neve](Esercizio_1B/dittico.html)   
+# Esercizio 1B
 
-[parole](Esercizio_2A/index.html)   
+[dittico](Esercizio_1B/dittico.html)   
 
-[amore](Esercizio_2B/amore.html)
+# Esercizio 2A
+
+[forma e senso](Esercizio_2A/index.html)   
+
+# Esercizio 2B
+
+[animazione](Esercizio_2B/amore.html)
